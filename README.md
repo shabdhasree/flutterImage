@@ -1,0 +1,2 @@
+ - This is the basic code for displaying image in flutter
+ - here it is example for both network image and local image
